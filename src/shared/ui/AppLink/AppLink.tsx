@@ -31,6 +31,6 @@ const AppLink: FC<AppLinkProps> = (props) => {
     >
       {children}
     </Link>
-  )
-}
+  );
+};
 export { AppLink };
