@@ -2,5 +2,6 @@
   "Тестовый пример": "Test example",
   "Перевод": "Translate",
   "Язык": "English",
-  "toggle": "toggle"
+  "toggle": "toggle",
+  "not-found": "Not Found"
 }
